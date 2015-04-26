@@ -2,7 +2,7 @@
 
 int main()
 {
-   printf("This is a native C program. Goodbye, cruel world!");
+   printf("THIS IS A NATIVE C PROGRAM. GOODBYE, CRUEL WORLD.");
 
    return 0;
 }
