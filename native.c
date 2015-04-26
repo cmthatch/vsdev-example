@@ -4,7 +4,7 @@
 
 int main()
 {
-   printf("This is a native C program. ");
+   printf("THIS IS A NATIVE C PROGRAM. ");
 
    printHelloGoodbye();
 

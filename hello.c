@@ -4,5 +4,5 @@
 
 void printHelloGoodbye( void )
 {
-   printf("Hello, world.");
+   printf("HELLO, WORLD.");
 }
