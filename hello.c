@@ -4,5 +4,5 @@
 
 void printHelloGoodbye( void )
 {
-   printf("HELLO, WORLD.");
+   printf("HELLO, Solar System.");
 }
